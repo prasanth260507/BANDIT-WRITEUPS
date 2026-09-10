@@ -1,4 +1,4 @@
-## Bandit Level 10 → Level 11 Writeup
+## Bandit Level 9 → Level 10 Writeup
 
 The password was stored in the data. txt file.
 
